@@ -1,0 +1,6 @@
+{
+  "Name": "BuilDT",
+  "ProjectType": "Process",
+  "Description": "Processus Data Table",
+  "MainFile": "Main.xaml"
+}
