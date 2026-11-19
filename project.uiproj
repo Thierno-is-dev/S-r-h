@@ -1,0 +1,6 @@
+{
+  "Name": "CitiesTemps",
+  "ProjectType": "Process",
+  "Description": "Processus Read Cities files and Open the browser and read cities names and take the value of temps",
+  "MainFile": "Main.xaml"
+}
