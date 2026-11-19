@@ -1,0 +1,6 @@
+{
+  "Name": "VariablesArguments",
+  "ProjectType": "Process",
+  "Description": "Processus Using Variables Arguments",
+  "MainFile": "Main.xaml"
+}
