@@ -1,0 +1,6 @@
+{
+  "Name": "AcmeLogin",
+  "ProjectType": "Process",
+  "Description": "Processus Login with Acme Website",
+  "MainFile": "Main.xaml"
+}
