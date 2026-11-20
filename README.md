@@ -1,7 +1,8 @@
 # Acme Login
 1. Add in local Login and Mdp in this path : 
-	> ** Panneau de configuration\Comptes d’utilisateurs\Gestionnaire d'identification **
+	> **Panneau de configuration\Comptes d’utilisateurs\Gestionnaire d'identification**
 2. In the project install : 
-	> ** UiPath.Credentials **
+	> **UiPath.Credentials**
 3. Use this activity : 
-	> ** Get Secure Credentials **
+	> **Get Secure Credentials**
+4. Add Extract Table Data 'Extract Table Data'
