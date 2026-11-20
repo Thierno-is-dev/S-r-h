@@ -1,4 +1,4 @@
 # Dispatcher
-> Create Queue in Orchestrator
-> Read Range Workbook
-> Bulk Add Queue Items
+> 1. Create Queue in Orchestrator
+> 2. Read Range Workbook
+> 3. Bulk Add Queue Items
