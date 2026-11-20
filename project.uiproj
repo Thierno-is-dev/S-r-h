@@ -1,0 +1,6 @@
+{
+  "Name": "Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Processus Dispatcher",
+  "MainFile": "Main.xaml"
+}
