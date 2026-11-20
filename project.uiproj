@@ -1,0 +1,6 @@
+{
+  "Name": "ReadPDF",
+  "ProjectType": "Process",
+  "Description": "Processus Simple PDF Text",
+  "MainFile": "Main.xaml"
+}
