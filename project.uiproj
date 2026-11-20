@@ -1,0 +1,6 @@
+{
+  "Name": "Performer",
+  "ProjectType": "Process",
+  "Description": "Processus transactionnel",
+  "MainFile": "Main.xaml"
+}
