@@ -1,0 +1,6 @@
+{
+  "Name": "GetMail",
+  "ProjectType": "Process",
+  "Description": "Processus Get mail with filter",
+  "MainFile": "Main.xaml"
+}
