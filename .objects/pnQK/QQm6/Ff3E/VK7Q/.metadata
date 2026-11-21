@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Nouveau fournisseur",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "VK7QwBGY_0eGnKA7Ng2hew",
+  "Reference": "G1gfhN1GLku3dJXn2I38iw/VK7QwBGY_0eGnKA7Ng2hew",
+  "ParentRef": "G1gfhN1GLku3dJXn2I38iw/Ff3EhMppEEmVLxp2k1xXsg",
+  "Created": "2026-11-21T00:48:46.8982224Z",
+  "Updated": "2026-11-21T00:48:46.8982224Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

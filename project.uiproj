@@ -1,0 +1,6 @@
+{
+  "Name": "Suppliers",
+  "ProjectType": "Process",
+  "Description": "Infrastructure d'entreprise robotique",
+  "MainFile": "Main.xaml"
+}
