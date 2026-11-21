@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sunbeam Twinkle-Sweet",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "NY6f4P2xxUeuvWFThJh58A",
+  "Reference": "Kys3KIyDOE6VxzNX3TrKKA/NY6f4P2xxUeuvWFThJh58A",
+  "ParentRef": "Kys3KIyDOE6VxzNX3TrKKA/QhyCDcLh4UK0vTHVLfupFQ",
+  "Created": "2026-11-21T00:11:35.7224695Z",
+  "Updated": "2026-11-21T00:11:35.7224695Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
